@@ -1,0 +1,40 @@
+{
+  "name": "git-workflows-plugin",
+  "version": "1.0.0",
+  "description": "Advanced multi-agent Git workflow automation for Claude Code",
+  "main": "index.js",
+  "scripts": {
+    "install": "node scripts/install.js",
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "keywords": [
+    "claude-code",
+    "slash-command",
+    "git",
+    "workflow",
+    "multi-agent",
+    "parallel",
+    "automation",
+    "cli"
+  ],
+  "author": "Evie Marie Kolb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evie-marie/git-workflows-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evie-marie/git-workflows-plugin/issues"
+  },
+  "homepage": "https://github.com/evie-marie/git-workflows-plugin#readme",
+  "files": [
+    "commands/",
+    "docs/",
+    "scripts/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
