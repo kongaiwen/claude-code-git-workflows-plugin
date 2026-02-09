@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude-Code-compatible-orange)](https://claude.ai/claude-code)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/evie-marie/git-workflows-plugin)
 
 A collection of sophisticated slash commands for Claude Code that enable advanced Git workflows, including parallel multi-agent development with synchronized merging cycles.
 
@@ -171,7 +172,9 @@ MIT License - see [LICENSE](./LICENSE) for details.
 
 ## Author
 
-Created by **Evie-Marie** (@evie-marie)
+Created by **Evie Marie Kolb**
+
+[![GitHub](https://img.shields.io/badge/GitHub-evie--marie-white)](https://github.com/evie-marie)
 
 ## Show Your Support
 
