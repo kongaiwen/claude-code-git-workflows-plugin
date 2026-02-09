@@ -45,7 +45,7 @@ cp commands/code-in-parallel.md ~/.claude/commands/
 ### Option 3: Package Manager (Coming Soon)
 
 ```bash
-npm install -g claude-code-git-workflows-plugin
+npm install -g @evie-marie/claude-code-git-workflows-plugin
 ```
 
 ## Usage

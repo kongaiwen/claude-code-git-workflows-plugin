@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-git-workflows-plugin",
+  "name": "@evie-marie/claude-code-git-workflows-plugin",
   "version": "1.0.0",
   "description": "Advanced multi-agent Git workflow automation for Claude Code",
   "main": "index.js",
