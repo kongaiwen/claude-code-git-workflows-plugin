@@ -1,10 +1,10 @@
-# git-workflows-plugin
+# claude-code-git-workflows-plugin
 
 > Advanced multi-agent Git workflow automation for Claude Code
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude-Code-compatible-orange)](https://claude.ai/claude-code)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/evie-marie/git-workflows-plugin)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/kongaiwen/claude-code-git-workflows-plugin)
 
 A collection of sophisticated slash commands for Claude Code that enable advanced Git workflows, including parallel multi-agent development with synchronized merging cycles.
 
@@ -29,10 +29,10 @@ Orchestrate multiple coding subagents working simultaneously in isolated git wor
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/git-workflows-plugin.git ~/.claude/plugins/git-workflows
+git clone https://github.com/kongaiwen/claude-code-git-workflows-plugin.git ~/.claude/plugins/claude-code-git-workflows
 
 # Symlink commands to your Claude commands directory
-ln -s ~/.claude/plugins/git-workflows/commands/* ~/.claude/commands/
+ln -s ~/.claude/plugins/claude-code-git-workflows/commands/* ~/.claude/commands/
 ```
 
 ### Option 2: Copy Individual Commands
@@ -45,7 +45,7 @@ cp commands/code-in-parallel.md ~/.claude/commands/
 ### Option 3: Package Manager (Coming Soon)
 
 ```bash
-npm install -g @evie-marie/git-workflows-plugin
+npm install -g claude-code-git-workflows-plugin
 ```
 
 ## Usage

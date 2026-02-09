@@ -1,5 +1,5 @@
 {
-  "name": "git-workflows-plugin",
+  "name": "claude-code-git-workflows-plugin",
   "version": "1.0.0",
   "description": "Advanced multi-agent Git workflow automation for Claude Code",
   "main": "index.js",
@@ -21,12 +21,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evie-marie/git-workflows-plugin.git"
+    "url": "git+https://github.com/kongaiwen/claude-code-git-workflows-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/evie-marie/git-workflows-plugin/issues"
+    "url": "https://github.com/kongaiwen/claude-code-git-workflows-plugin/issues"
   },
-  "homepage": "https://github.com/evie-marie/git-workflows-plugin#readme",
+  "homepage": "https://github.com/kongaiwen/claude-code-git-workflows-plugin#readme",
   "files": [
     "commands/",
     "docs/",
